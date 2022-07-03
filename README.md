@@ -1,3 +1,3 @@
-## Conceitos e Práticas Javascipt
+# Conceitos e Práticas Javascipt
 
-Estudos dos conceitos de JS
+Estudos dos conceitos básicos de JS
